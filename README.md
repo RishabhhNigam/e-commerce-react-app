@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # e-commerce-react-app
 =======
-# React + Vite Template
+# React + Vite Template + Vibe Coding 
 
-A modern React template for web applications and games, featuring React 18, Vite, TailwindCSS, and Material UI.
+A modern React template for web applications and games, featuring React 18, Vite, TailwindCSS, and Material UI. 
 
 ## Project Structure
 
